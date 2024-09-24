@@ -6,7 +6,7 @@ Review for Data Structure and Algorithms in Python
 
 #215 Kth Largest Element in an Array (Heap, Medium)
 
-#452 Minimum Number of Arrows to Burst Balloons (Interval, Medium)
+#228 Summary Ranges (Interval, Easy)
 
 #71 Simplify Path (Stack, Medium)
 
